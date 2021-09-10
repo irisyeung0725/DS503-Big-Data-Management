@@ -5,7 +5,7 @@
 - [Python3](https://www.python.org/downloads/)
 - [Apache Hadoop](https://hadoop.apache.org/)
 - [Apache Hive](https://hive.apache.org/)
-- Python development and PyQt packages (dependent on OS) 
+- Python development and [PyQt](https://riverbankcomputing.com/software/pyqt/intro) packages (dependent on OS) 
 
 > Recommended: follow these instructions for setup
 https://www.edureka.co/community/1828/installing-hive-hadoop-in-vm
@@ -27,4 +27,4 @@ pip install -r requirements.txt
 Now you can run the system:
 ```
 python3 main.py
-```# DS503-Big-Data-Management
+```
