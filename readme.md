@@ -1,11 +1,11 @@
 # Code Instructions
 
 ## Dependencies
-- Java
-- Python3
-- Apache Hadoop
-- Apache Hive
-- Python development and PyQt packages (dependent on OS)
+- [Java](https://www.java.com/en/)
+- [Python3](https://www.python.org/downloads/)
+- [Apache Hadoop](https://hadoop.apache.org/)
+- [Apache Hive](https://hive.apache.org/)
+- Python development and PyQt packages (dependent on OS) 
 
 Recommended: follow these instructions for setup
 https://www.edureka.co/community/1828/installing-hive-hadoop-in-vm
