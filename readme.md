@@ -11,7 +11,7 @@
 https://www.edureka.co/community/1828/installing-hive-hadoop-in-vm
 
 ## Test Environment
-Tested on Ubuntu 20.04 with Hadoop installed in single cluster mode and Hive installed on top.
+Tested on Ubuntu `20.04` with Hadoop installed in single cluster mode and Hive installed on top.
 
 ## Setup
 If not already in code directory:
