@@ -47,3 +47,8 @@ The user interface of the application
 The application is processing user-input recursive query written in `SQL`
 ![processing](https://user-images.githubusercontent.com/45746834/132789922-b2406aad-2301-4645-a540-c912a7b3b838.png)
 
+## Final Report
+To view the final report for this project, please navigate to [this page](https://github.com/irisyeung0725/DS503-Big-Data-Management/blob/master/report.pdf)
+
+## Contributers
+Shijing Yang syang6@wpi.edu | Davis Catherman dscatherman@wpi.edu
